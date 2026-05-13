@@ -45,6 +45,7 @@ body {
   background-color: white;
     display: flex;
     flex-direction: column;
+    text-align: center;
     font-size:20 px;
 
     align-items:center;
