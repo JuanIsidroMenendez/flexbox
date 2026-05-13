@@ -1,0 +1,25 @@
+.body {
+  font-family: "Dosis", sans-serif;
+}
+
+
+.flex-container {
+            display: flex;
+         }
+
+.flex-container div {
+            width: 30px;
+            height: 30px;
+            background-color: lightblue;
+            margin: 5px;
+            text-align: center;
+            
+        }
+        
+          
+           
+
+
+
+    
+          
